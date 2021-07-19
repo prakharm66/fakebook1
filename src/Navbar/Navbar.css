@@ -1,0 +1,20 @@
+.Navbar {
+    z-index: 3;
+    border-radius: 2rem;
+    position :fixed;
+    float :right;
+    margin-top: 1%;
+    width: 50%;
+    margin-left: 49%;
+    background-color: rgb(169, 238, 232);
+    display: flex;
+    justify-content: space-around;
+  }
+
+  @media(max-width:800px){
+   
+    .Navbar{
+      margin-left: 2%;
+      width: 95%;
+    }
+}
