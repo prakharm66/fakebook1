@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)./
 
-To see the app running laocally , in your terminal type
+To see the app running locally ,go to this folder , ie `cd fakebook1` , and then write the command
 ### `npm start`
 
 Runs the app in the development mode.\
