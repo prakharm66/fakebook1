@@ -15,8 +15,8 @@ Before running this , make sure you have npm installed on your machine
 
 ## Some details
 
-This app has 3 parts -  Sign up , Sign in , Dashboard .\
-The js and Css files for Sign up and Sign are in src/Signup .\
+This app has 3 parts -  SignUp , SignIn , Dashboard .\
+The js and Css files for SignUp and SignIn  are in src/Signup .\
 The js and Css files for Dashboard are in src/Dashboard .\
 Main code for the dashboard is written in src/App.js 
 
